@@ -41,7 +41,7 @@ const settings = {
 			{ name: "Libgen+", url: "https://libgen.li/" },
 			{ name: "Journals", url: "https://journals.lww.com/ijmr/pages/default.aspx" },
 			{ name: "Research", url: "https://main.icmr.nic.in/" },
-			{ name: "Resources", url: "https://www.reddit.com/r/medicalschool/wiki/resources/" },
+			{ name: "Medwiki", url: "https://www.reddit.com/r/medicalschool/wiki/resources/" },
 		],
 		col3: [
 			{ name: "Youtube", url: "https://youtube.com/" },
