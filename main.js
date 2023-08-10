@@ -15,11 +15,11 @@ let containerObj = {
 		nopic: false, //.nopic: hide pic
 		notitle: false, //.notitle: hide category titles
 		leftpic: true, //.leftpic: put the pic to the left instead of top
-		tallpic: false, //.tallpic: pic will be yahallo (358*279.72px) tall and wide (only works with leftpic)
+		tallpic: true, //.tallpic: pic will be yahallo (358*279.72px) tall and wide (only works with leftpic)
 		nolinks: false, //.nolinks: hide colwrap
 	},
 	m: { //misc
-		incognito: false, //make buttons incognito
+		incognito: true, //make buttons incognito
 		customfont: '',
 		greeting: 'Grind', //greeting and other texts
 		col1Title: 'Medslavery',
