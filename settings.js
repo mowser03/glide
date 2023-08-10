@@ -30,11 +30,11 @@ const settings = {
 	],
 	l: { //links
 		col1: [
-			{ name: "link 1", url: "#" },
-			{ name: "link 2", url: "#" },
-			{ name: "link 3", url: "#" },
-			{ name: "link 4", url: "#" },
-			{ name: "link 5", url: "#" },
+			{ name: "Acland", url: "http://resources.med.fsu.edu/humananatomy/content_main_1.htm" },
+			{ name: "UMich", url: "https://sites.google.com/a/umich.edu/bluelink/curricula" },
+			{ name: "Muscles", url: "https://rad.washington.edu/muscle-atlas/" },
+			{ name: "Anatomy", url: "http://www.anatomyguy.com/" },
+			{ name: "Lectures", url: "https://jackstern.org/Lectures/" },
 		],
 		col2: [
 			{ name: "link 1", url: "#" },
