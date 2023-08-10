@@ -7,9 +7,9 @@ let containerObj = {
 		compact: false, //.compact: make links compact
 		width: 40, //max container width. 32 - 65rem
 		cols: 3, //.cols-2 || .cols-3: show either 1,2,3 or just 1,2 columns
-		greetingtype: 'greeting-date', // greeting, nogreeting, greeting+date
+		greetingtype: 'greeting+date', // greeting, nogreeting, greeting+date
 		dateformat: '{wn}, {mm}. {Mn}', // default date format
-		clocktype: "greeting+date",
+		clocktype: "greeting",
 		verdana: false, //.verdana: use verdana font
 		nosearch: false, //.nosearch: hide search bar
 		nopic: false, //.nopic: hide pic
