@@ -37,18 +37,18 @@ const settings = {
 			{ name: "Lectures", url: "https://jackstern.org/Lectures/" },
 		],
 		col2: [
-			{ name: "link 1", url: "#" },
-			{ name: "link 2", url: "#" },
-			{ name: "link 3", url: "#" },
-			{ name: "link 4", url: "#" },
-			{ name: "link 5", url: "#" },
+			{ name: "Libgen", url: "https://libgen.is/" },
+			{ name: "Libgen+", url: "https://libgen.li/" },
+			{ name: "Journals", url: "https://journals.lww.com/ijmr/pages/default.aspx" },
+			{ name: "Research", url: "https://main.icmr.nic.in/" },
+			{ name: "Resources", url: "https://www.reddit.com/r/medicalschool/wiki/resources/" },
 		],
 		col3: [
-			{ name: "link 1", url: "#" },
-			{ name: "link 2", url: "#" },
-			{ name: "link 3", url: "#" },
-			{ name: "link 4", url: "#" },
-			{ name: "link 5", url: "#" },
+			{ name: "Youtube", url: "https://youtube.com/" },
+			{ name: "Wikipedia", url: "https://wikipedia.org/" },
+			{ name: "Chan", url: "https://mowser03.github.io/chan-directory/" },
+			{ name: "Twitter", url: "https://nitter.net/" },
+			{ name: "Reddit", url: "https://old.reddit.com/" },
 		]
 	}
 }
